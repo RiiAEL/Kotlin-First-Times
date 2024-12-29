@@ -29,7 +29,4 @@ fun main(args: Array<String>) {
   for (i in 1..1000000) {
     println ("Number : $i")
   }
-  
-  val currenttime = LocalTime.now()
-  println("currentTime : $currenttime")
 }
